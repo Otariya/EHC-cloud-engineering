@@ -1,26 +1,27 @@
 # EHC-cloud-engineering
-![tutorial](./images/ehc123.PNG)
 This is my repository for my EHC-cloud bootcamp
 # EHC CLOUD ENGINEERING BOOTCAMP COHORT3
 ## Introduction Week (Onboarding)
 ### Introduction to Cloud Engineering
 
-![Reference Image](/EHC%20SCREENSHOTS/EHC%20SCEENSHOTS/ehc%20logo.jfif)
+![acceptance](./images/Ehc%20acceptance%20msg.PNG)
 
 I'm thrilled to share with you my journey towards breaking into tech. For a while, I felt like imposter syndrome was holding me back from pursuing my dream. It's not easy to push past those feelings of self-doubt and insecurity, but I refused to give up. That's when I discovered **Empower Her Community Technical Bootcamp 3.0**.
 
-![Reference Image](/EHC%20SCREENSHOTS/EHC%20SCEENSHOTS/ehc.jfif)
+![excitement emoji](./images/emoji.PNG)
+
+![logo](./images/ehc%20logo.PNG)
 
 Let me tell you, this technical bootcamp has been a game-changer for me. It gave me the tools and support I need to strengthen my skills and gain the confidence to pursue my passion.
 
-![Reference Image](/EHC%20SCREENSHOTS/EHC%20SCEENSHOTS/images%20(1).jfif)
+![accountability sisters](./images/accountablilty%20sisters.PNG)
 The orientation session for the Empower Her Bootcamp was both thrilling and informative. We met the trainers and facilitators who will guide us through the program and got a preview of what's in store for the next few weeks. Additionally, we received a thorough briefing on the program's timetable, expectations, and prerequisites.
 
 As part of the Empower Her Bootcamp, we will be grouped with "accountability sisters," a concept that promotes camaraderie among participants and encourages mutual support throughout the program. We are responsible for each other's progress and development, holding each other to high standards. This strategy is aimed at keeping us motivated, focused, and dedicated to achieving our objectives. Thus far, it has been an amazing experience, and I consider myself fortunate to have such a supportive community of women on my side. 
 
  Our timetable for week 1 was released in this format:
 
-![Reference Image](/EHC%20SCREENSHOTS/EHC%20SCEENSHOTS/week%201%20time%20table.PNG)
+![timetable](./images/Week%20one%20timetable.PNG)
 
 We began by getting an overview of the essentials of cloud engineering. I discovered that cloud engineering pertains to the process of creating, designing, and sustaining systems and applications that operate on the cloud. This field encompasses a diverse range of proficiencies and technologies such as cloud computing, security, network architecture, and automation.
 
